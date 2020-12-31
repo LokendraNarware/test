@@ -1,0 +1,22 @@
+<?php
+
+# SEO Studio
+# Configuration File
+# Automatically generated
+
+return array(
+    "database" => array(
+        "host" => "%1",
+        "name" => "%2",
+        "username" => "%3",
+        "password" => "%4",
+        "port" => %5
+    ),
+    "errors" => array(
+        "show" => false,
+        "level" => E_ALL
+    ),
+    "session" => array(
+        "token" => "%6"
+    )
+);
